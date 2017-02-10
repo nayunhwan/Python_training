@@ -1,0 +1,32 @@
+투수: 김태균	소속: 한화
+타자: 류현진	소속: 한화
+------------------------------------------------
+1.	control: 110.718790 speed: 82.231054, contact: 151.391946, power: 73.885124 판정: Hit
+2.	control: 108.428019 speed: 77.343069, contact: 120.054428, power: 67.806992 판정: Hit
+3.	control: 136.926393 speed: 83.910323, contact: 143.364331, power: 66.164746 판정: Hit
+4.	control: 132.746980 speed: 76.153466, contact: 145.158819, power: 64.213187 판정: Hit
+5.	control: 111.429194 speed: 74.929865, contact: 124.798964, power: 69.968588 판정: Hit
+6.	control: 122.232477 speed: 84.060939, contact: 112.132708, power: 80.632681 판정: Miss
+7.	control: 132.716467 speed: 93.038815, contact: 134.290050, power: 77.488193 판정: Hit
+8.	control: 123.136756 speed: 84.772100, contact: 112.731513, power: 67.483777 판정: Miss
+9.	control: 108.415633 speed: 93.737210, contact: 155.975903, power: 88.959020 판정: Hit
+10.	control: 105.516106 speed: 83.237286, contact: 156.565184, power: 77.396999 판정: Hit
+
+류현진 타자는 8 번 안타와 0 개의 홈런을 쳤습니다.
+
+투수: 김태균	소속: 한화
+타자: 이대호	소속: 롯데
+------------------------------------------------
+1.	control: 105.309507 speed: 84.322923, contact: 62.848610, power: 132.552149 판정: Miss
+2.	control: 117.884246 speed: 85.918131, contact: 79.471904, power: 129.081709 판정: Miss
+3.	control: 101.612574 speed: 67.779924, contact: 82.347111, power: 189.550154 판정: Miss
+4.	control: 136.532692 speed: 80.944775, contact: 75.796245, power: 188.131051 판정: Miss
+5.	control: 121.429245 speed: 81.029571, contact: 80.276633, power: 189.724959 판정: Miss
+6.	control: 118.649702 speed: 72.403534, contact: 57.188175, power: 152.722105 판정: Miss
+7.	control: 100.178397 speed: 65.803238, contact: 65.939804, power: 127.250424 판정: Miss
+8.	control: 99.347968 speed: 81.285437, contact: 76.443243, power: 167.361151 판정: Miss
+9.	control: 118.667388 speed: 70.468957, contact: 82.724415, power: 149.062270 판정: Miss
+10.	control: 130.602654 speed: 68.980392, contact: 59.702628, power: 167.018140 판정: Miss
+
+이대호 타자는 0 번 안타와 0 개의 홈런을 쳤습니다.
+
